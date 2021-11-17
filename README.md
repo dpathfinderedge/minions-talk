@@ -1,5 +1,5 @@
 # Minion's Talk
-Live Project: https://minionschat.netlify.app
+**Live Project:** https://minionschat.netlify.app
 
 So basically, **Minions' Talk** is a translator that translates English Language into Minionese(a languge spoken by Minions, sometimes called Banana Language).
 
